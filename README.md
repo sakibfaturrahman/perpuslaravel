@@ -72,10 +72,10 @@ Proyek ini dikembangkan saat saya mengikuti program **magang** sebagai siswa SMK
    ![Beranda](https://github.com/user-attachments/assets/f25a5f49-d1f6-4270-a336-9983da6dfa33)
 
 3. **Halaman Buku**  
-   ![Halaman Buku](https://github.com/user-attachments/assets/355d062c-04f5-49ed-8da7-038e57b4a9ce)
+   ![Halaman Buku](https://github.com/user-attachments/assets/17bc03a0-3b6d-4a75-9c8c-52815df6181e)
 
 4. **Detail Buku**  
-   ![Detail Buku](https://github.com/user-attachments/assets/17bc03a0-3b6d-4a75-9c8c-52815df6181e)
+   ![Detail Buku](https://github.com/user-attachments/assets/355d062c-04f5-49ed-8da7-038e57b4a9ce)
 
 ---
 
