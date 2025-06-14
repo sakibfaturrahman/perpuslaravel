@@ -81,16 +81,16 @@ Proyek ini dikembangkan saat saya mengikuti program **magang** sebagai siswa SMK
 
 ## Instalasi
 
-git clone https://github.com/username/perpuslaravel.git
-cd perpuslaravel
-composer install
-cp .env.example .env
-php artisan key:generate
+-   git clone https://github.com/username/perpuslaravel.git
+-   cd perpuslaravel
+-   composer install
+-   cp .env.example .env
+-   php artisan key:generate
 
 Lalu, sesuaikan konfigurasi .env untuk koneksi database dan jalankan:
 
-php artisan migrate
-php artisan serve
+-   php artisan migrate
+-   php artisan serve
 
 ---
 
